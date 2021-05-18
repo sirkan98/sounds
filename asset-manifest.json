@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.491a7673.chunk.css",
+    "main.js": "./static/js/main.bc3b7b35.chunk.js",
+    "main.js.map": "./static/js/main.bc3b7b35.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0030098f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0030098f.js.map",
+    "static/js/2.d24f98e4.chunk.js": "./static/js/2.d24f98e4.chunk.js",
+    "static/js/2.d24f98e4.chunk.js.map": "./static/js/2.d24f98e4.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.491a7673.chunk.css.map": "./static/css/main.491a7673.chunk.css.map",
+    "static/js/2.d24f98e4.chunk.js.LICENSE.txt": "./static/js/2.d24f98e4.chunk.js.LICENSE.txt",
+    "static/media/ay-mi-madre.87d58c79.mp3": "./static/media/ay-mi-madre.87d58c79.mp3",
+    "static/media/roblox.7dacfaae.mp3": "./static/media/roblox.7dacfaae.mp3",
+    "static/media/siu.43647a8b.mp3": "./static/media/siu.43647a8b.mp3",
+    "static/media/siu2.9dec829b.mp3": "./static/media/siu2.9dec829b.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0030098f.js",
+    "static/js/2.d24f98e4.chunk.js",
+    "static/css/main.491a7673.chunk.css",
+    "static/js/main.bc3b7b35.chunk.js"
+  ]
+}
