@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.39a03621.chunk.css",
-    "main.js": "./static/js/main.f84a5c4f.chunk.js",
-    "main.js.map": "./static/js/main.f84a5c4f.chunk.js.map",
+    "main.css": "./static/css/main.7abe0fa7.chunk.css",
+    "main.js": "./static/js/main.5e81c740.chunk.js",
+    "main.js.map": "./static/js/main.5e81c740.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0030098f.js",
     "runtime-main.js.map": "./static/js/runtime-main.0030098f.js.map",
     "static/js/2.76f43f4a.chunk.js": "./static/js/2.76f43f4a.chunk.js",
     "static/js/2.76f43f4a.chunk.js.map": "./static/js/2.76f43f4a.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.39a03621.chunk.css.map": "./static/css/main.39a03621.chunk.css.map",
+    "static/css/main.7abe0fa7.chunk.css.map": "./static/css/main.7abe0fa7.chunk.css.map",
     "static/js/2.76f43f4a.chunk.js.LICENSE.txt": "./static/js/2.76f43f4a.chunk.js.LICENSE.txt",
     "static/media/almendra.afd5a26c.png": "./static/media/almendra.afd5a26c.png",
     "static/media/almendra1.426fb669.mp3": "./static/media/almendra1.426fb669.mp3",
     "static/media/almendra2.9488e47e.mp3": "./static/media/almendra2.9488e47e.mp3",
     "static/media/almendra3.caac0692.mp3": "./static/media/almendra3.caac0692.mp3",
     "static/media/ay-mi-madre.87d58c79.mp3": "./static/media/ay-mi-madre.87d58c79.mp3",
+    "static/media/caca.a941df58.png": "./static/media/caca.a941df58.png",
     "static/media/comunismo.1c45d326.png": "./static/media/comunismo.1c45d326.png",
     "static/media/comunista.df5d50a4.mp3": "./static/media/comunista.df5d50a4.mp3",
     "static/media/cris.5dd30b3c.png": "./static/media/cris.5dd30b3c.png",
@@ -27,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.0030098f.js",
     "static/js/2.76f43f4a.chunk.js",
-    "static/css/main.39a03621.chunk.css",
-    "static/js/main.f84a5c4f.chunk.js"
+    "static/css/main.7abe0fa7.chunk.css",
+    "static/js/main.5e81c740.chunk.js"
   ]
 }
