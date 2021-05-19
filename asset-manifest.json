@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.062fee7a.chunk.css",
-    "main.js": "./static/js/main.18d79183.chunk.js",
-    "main.js.map": "./static/js/main.18d79183.chunk.js.map",
+    "main.css": "./static/css/main.30faa922.chunk.css",
+    "main.js": "./static/js/main.d230bea9.chunk.js",
+    "main.js.map": "./static/js/main.d230bea9.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0030098f.js",
     "runtime-main.js.map": "./static/js/runtime-main.0030098f.js.map",
     "static/js/2.76f43f4a.chunk.js": "./static/js/2.76f43f4a.chunk.js",
     "static/js/2.76f43f4a.chunk.js.map": "./static/js/2.76f43f4a.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.062fee7a.chunk.css.map": "./static/css/main.062fee7a.chunk.css.map",
+    "static/css/main.30faa922.chunk.css.map": "./static/css/main.30faa922.chunk.css.map",
     "static/js/2.76f43f4a.chunk.js.LICENSE.txt": "./static/js/2.76f43f4a.chunk.js.LICENSE.txt",
     "static/media/almendra.afd5a26c.png": "./static/media/almendra.afd5a26c.png",
     "static/media/almendra1.426fb669.mp3": "./static/media/almendra1.426fb669.mp3",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.0030098f.js",
     "static/js/2.76f43f4a.chunk.js",
-    "static/css/main.062fee7a.chunk.css",
-    "static/js/main.18d79183.chunk.js"
+    "static/css/main.30faa922.chunk.css",
+    "static/js/main.d230bea9.chunk.js"
   ]
 }
